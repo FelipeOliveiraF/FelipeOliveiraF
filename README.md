@@ -1,7 +1,7 @@
 👋 Olá, eu sou Felipe Oliveira!
 - 🏫 Aprendizados: Angular | JavaScript | HTML | CSS | C# | Node.js | Git 
 - 🔥 Desenvolvedor Full Stack Jr na Creath
-- 👨‍🎓 Graduação: Cursando Sistemas de Informação na Universidade Santa Cecília
+- 👨‍🎓 Graduação: Cursando Sistemas de Informação - Universidade Santa Cecília
 - 📫 Contato: felipeol.est@gmail.com
 
 
